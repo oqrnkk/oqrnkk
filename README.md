@@ -16,17 +16,8 @@ I enjoy building projects, learning new things, and sharing knowledge with the c
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
-
 <p align="center">
-<svg width="150" height="4" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF512F"/>
-      <stop offset="100%" stop-color="#DD2476"/>
-    </linearGradient>
-  </defs>
-  <rect width="150" height="4" fill="url(#grad)" rx="2" />
-</svg>
+  <img src="./assets/splitter.svg" alt="Splitter" width="400" height="2">
 </p>
 
 <p align="center">
