@@ -39,3 +39,5 @@ I enjoy building projects, learning new things, and sharing knowledge with the c
 </p>
 
 <p align="center" style="font-size:14px;">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
