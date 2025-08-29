@@ -2,7 +2,7 @@
 
 I'm a passionate developer working with multiple languages and technologies. I enjoy building projects, learning new things, and sharing knowledge with the community.
 <p align="center">
-  ![Git Cat](./cat.gif)
+  ![Git Cat](./gitcat.gif)
 </p>
 ---
 
