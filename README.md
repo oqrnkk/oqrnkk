@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm oqrnkk
 
-<!--
-**oqrnkk/oqrnkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer working with multiple languages and technologies. I enjoy building projects, learning new things, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Technologies
+
+- C#
+- C++
+- Lua
+- Python
+- HTML / CSS / JavaScript
+
+---
+
+## Current Focus
+
+- Game development, automation, and web projects.
+- Contributing to open source projects.
+- Learning advanced algorithms and system design.
+
+---
+
+## Currently Learning
+
+- Modern C++ techniques and best practices
+- Full-stack web development frameworks
+- AI integration and automation tools
+
+---
+
+## Contact
+
+- GitHub: [oqrnkk](https://github.com/oqrnkk)
+
+---
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
