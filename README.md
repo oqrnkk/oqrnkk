@@ -5,7 +5,7 @@ I'm a passionate developer working with multiple languages and technologies. I e
   
 </p>
 ---
-![GitCat](./cat.gif)
+![Git Cat](./cat.gif)
 
 ## Languages & Technologies
 
