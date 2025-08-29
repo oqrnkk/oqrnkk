@@ -1,9 +1,9 @@
 # Hi, I'm oqrnkk
 
 I'm a passionate developer working with multiple languages and technologies. I enjoy building projects, learning new things, and sharing knowledge with the community.
-
-![Cat Animation](./cat.gif)
-
+<p align="center">
+  ![GitCat](./cat.gif)
+</p>
 ---
 
 ## Languages & Technologies
